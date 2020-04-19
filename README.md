@@ -1,15 +1,15 @@
 # python crash course for programmers
 
 - Lesson 1
-    1.1.	Set up  environment (installing anaconda)
-    1.2.	Which software
-    1.3.	Developer environement: Jupyter vs Spyder vs other editors & Jupyter extensions 
-    1.4. Starting with Python
-    1.5.a	Special for excel lovers. Fire a python script from excel 
-    1.5.b   Special for Rexx lovers. same same but different: Running a script in the terminal shell 
-    1.6.	Importing libraries. How to connect Anaconda to internet in order to download libraries  
-    1.7.	Hello world  
-    1.8.	Reading and writing text files in disc  
+    1.1.	Set up  environment (installing anaconda)  
+    1.2.	Which software  
+    1.3.	Developer environement: Jupyter vs Spyder vs other editors & Jupyter extensions   
+    1.4.    Starting with Python  
+    1.5.a	Special for excel lovers. Fire a python script from excel     
+    1.5.b   Special for Rexx lovers. same same but different: Running a script in the terminal shell   
+    1.6.	Importing libraries. How to connect Anaconda to internet in order to download libraries    
+    1.7.	Hello world    
+    1.8.	Reading and writing text files in disc    
 - Lesson 2
     2.1. Lists, tupples
     2.2. Manipulating lists (append, pop etc)
