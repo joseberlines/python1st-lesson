@@ -11,16 +11,16 @@
     1.7.	Hello world    
     1.8.	Reading and writing text files in disc    
 - Lesson 2
-    2.1. Lists, tupples
-    2.2. Manipulating lists (append, pop etc)
-    2.3. Text functions (strings).
-    2.4. Text formatting: f strings .format, concatenate, split, etc
-    2.5. Defining functions
-    2.6. For excel lovers: xlwings, pyxll [this las one just recently discovered and very promising]
-- Lesson 3
-    3.1. standard Lybraries
-    3.2. funcitons/ methods
-    3.3. non-standard lybraries
+    2.1. Lists, tupples  
+    2.2. Manipulating lists (append, pop etc)  
+    2.3. Text functions (strings).  
+    2.4. Text formatting: f strings .format, concatenate, split, etc  
+    2.5. Defining functions  
+    2.6. For excel lovers: xlwings, pyxll [this las one just recently discovered and very promising]  
+- Lesson 3  
+    3.1. standard Lybraries  
+    3.2. funcitons/ methods  
+    3.3. non-standard lybraries  
 
 
 ### Notes
